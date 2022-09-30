@@ -18,7 +18,7 @@ KoliBri baut direkt auf den [Webstandards](https://www.w3.org/standards/webdesig
 
 ## Kollaboration
 
-Unser Projekt "KoliBri" ist der Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
+Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung dar und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
 
 **Was können Sie tun?**
 - Folgen Sie uns auf GitHub (Follow-Button)
