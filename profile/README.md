@@ -20,7 +20,7 @@ KoliBri baut direkt auf den [Webstandards](https://www.w3.org/standards/webdesig
 
 Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf KoliBri-Basis erstellen können.
 
-![Zeigt wie man mit create-kolibri eine neue App anlegen kann.](create-kolibri.gif)
+![Zeigt wie man mit create-kolibri eine neue App anlegen kann.](https://raw.githubusercontent.com/public-ui/.github/main/profile/create-kolibri.gif)
 
 ## Kollaboration
 
