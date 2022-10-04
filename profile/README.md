@@ -22,6 +22,7 @@ Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberfl�
 
 **Was können Sie tun?**
 - Folgen Sie uns auf GitHub (Follow-Button)
+- [Lesen Sie unsere Dokumentation](https://public-ui.github.io)
 - Nutzen Sie unsere Bibliothek
 - Geben Sie uns Feedback
 - Machen Sie einen Beitrag (Pull-Request)
