@@ -16,6 +16,12 @@ KoliBri baut direkt auf den [Webstandards](https://www.w3.org/standards/webdesig
 
 **KoliBri** wird unter der [**EUROPEAN UNION PUBLIC LICENCE v. 1.2**](https://joinup.ec.europa.eu/sites/default/files/custom-page/attachment/eupl_v1.2_de.pdf) Open Source freigegeben.
 
+## Anwendung erstellen
+
+Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf KoliBri-Basis erstellen können.
+
+![Zeigt wie man mit create-kolibri eine neue App anlegen kann.](create-kolibri.gif)
+
 ## Kollaboration
 
 Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung dar und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
