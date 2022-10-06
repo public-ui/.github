@@ -27,7 +27,7 @@ Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf KoliBri
 Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung dar und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
 
 **Was können Sie tun?**
-- Folgen Sie uns auf GitHub (Follow-Button)
+- [Folgen Sie uns auf GitHub](https://github.com/orgs/public-ui/followers) (Follow-Button)
 - [Lesen Sie unsere Dokumentation](https://public-ui.github.io)
 - Nutzen Sie unsere Bibliothek
 - Geben Sie uns Feedback
