@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 > **Achten Sie beim Erstellen von Tickets stets darauf**, dass die **technischen Fokus** adressiert werden und **keine fachlichen und unternehmensinternen Details** preisgegeben werden.
 
 # Fehlermeldung
