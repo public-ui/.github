@@ -3,7 +3,7 @@ name: Fehler melden
 about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
 title: '[BUG] '
 labels: 'bug'
-assignees: '@deleoio'
+assignees: 'deleonio'
 
 ---
 
