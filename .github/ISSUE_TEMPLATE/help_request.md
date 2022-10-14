@@ -1,5 +1,5 @@
 ---
-name: Hilfeanfrage
+name: Hilfe anfragen
 about: Stellen Sie Ihre Fragen zur Verwendung unserer Komponenten-Bibliothek.
 title: '[Help]'
 labels: 'help'
