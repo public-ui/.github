@@ -1,38 +1,33 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+> **Achten Sie beim Erstellen von Tickets stets darauf**, dass die **technischen Fokus** adressiert werden und **keine fachlichen und unternehmensinternen Details** preisgegeben werden.
 
----
+# Fehlermeldung
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Beschreibung des Fehlers
+Eine klare und prägnante Beschreibung des Fehlers.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Reproduktion
+Schritte zum Reproduzieren des Verhaltens:
+- Gehe zu '...'
+- Klicke auf '....'
+- Scrollen Sie nach unten zu '....'
+- Siehe Fehler
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Erwartetes Verhalten
+Eine klare und prägnante Beschreibung dessen, was Sie erwartet haben.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Screenshots
+Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erläutern.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Desktop (bitte vervollständigen Sie die folgenden Informationen):
+- Betriebssystem: [z.B. iOS]
+- Browser [z.B. Chrom, Safari]
+- Version [z.B. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Smartphone (bitte ergänzen Sie folgende Angaben):
+- Gerät: [z.B. iPhone 6]
+- Betriebssystem: [z.B. iOS8.1]
+- Browser [z.B. Aktienbrowser, Safari]
+- Version [z.B. 22]
 
-**Additional context**
-Add any other context about the problem here.
+## Zusätzlicher Kontext
+Fügen Sie hier einen beliebigen anderen Kontext zum Problem hinzu.
