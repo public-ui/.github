@@ -1,5 +1,5 @@
 ---
-name: Featureanfrage
+name: Feature anfragen
 about: Schlagen Sie eine Idee für dieses Projekt vor.
 title: '[Feature]'
 labels: 'feature'
