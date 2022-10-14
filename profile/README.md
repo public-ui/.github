@@ -24,7 +24,7 @@ Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf KoliBri
 
 ![Zeigt wie man mit create-kolibri eine neue App anlegen kann.](https://raw.githubusercontent.com/public-ui/.github/main/profile/create-kolibri.gif)
 
-Aktuell können Sie eine Statische Webseite oder Webanwendungen für die Frameworks [Angular], [React], [Solid] und [Next.js] generieren.
+Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frameworks `Angular`, `React`, `Solid` und `Next.js` generieren.
 
 ## Kollaboration
 
@@ -36,9 +36,3 @@ Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberfl�
 - Nutzen Sie unsere Bibliothek
 - Geben Sie uns Feedback
 - Machen Sie einen Beitrag (Pull-Request)
-
-
-[angular]: https://angular.io
-[react]: https://react.org
-[solid]: https://www.solidjs.com
-[next.js]: https://nextjs.org
