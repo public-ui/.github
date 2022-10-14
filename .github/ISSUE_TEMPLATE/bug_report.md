@@ -1,13 +1,13 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: Fehler melden
+about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
+title: '[BUG] '
+labels: 'bug'
+assignees: 'deleoio'
 
 ---
 
-> **Achten Sie beim Erstellen von Tickets stets darauf**, dass die **technischen Fokus** adressiert werden und **keine fachlichen und unternehmensinternen Details** preisgegeben werden.
+> ⚠️ **Achten Sie beim Erstellen von Tickets stets darauf**, dass die **technischen Fokus** adressiert werden und **keine fachlichen und unternehmensinternen Details** preisgegeben werden.
 
 # Fehlermeldung
 
