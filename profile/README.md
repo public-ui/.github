@@ -1,4 +1,4 @@
-# Willkommen bei KoliBri
+# Willkommen bei **KoliBri**
 
 **KoliBri** steht für **Ko**mponenten-Bib**li**othek für die **B**ar**ri**erefreiheit
 
@@ -10,7 +10,7 @@ Wir stellen gemeinsam wiederverwendbare Webkomponenten zur Verfügung, die die B
 
 ## Mission
 
-KoliBri baut direkt auf den [Webstandards](https://www.w3.org/standards/webdesign/) auf (Framework-agnostisch), ist dabei eine generische Referenzimplementierung des [WCAG-Standards](https://www.w3.org/WAI/standards-guidelines/wcag/) (Barrierefreiheit) und als eine Multi-Theming-fähige Präsentationsschicht umgesetzt. Es gibt keinerlei fachlichen Bezug und keine Datenübertragungsfunktionalitäten. Damit ist KoliBri für die Realisierung statischer Webseiten als auch dynamischer Webanwendungen unterschiedlicher Corporate Designs gleichermaßen wiederverwendbar und für Open Source sehr interessant.
+**KoliBri** baut direkt auf den [Webstandards](https://www.w3.org/standards/webdesign/) des [W3C](https://www.w3.org/standards/webdesign/) auf (Framework-agnostisch), ist dabei eine generische Referenzimplementierung des [WCAG-Standards](https://www.w3.org/WAI/standards-guidelines/wcag/) und der [BITV](https://www.bitvtest.de/bitv_test.html) für die Barrierefreiheit und als eine Multi-Theming-fähige Präsentationsschicht umgesetzt. Es gibt keinerlei fachlichen Bezug und keine Datenübertragungsfunktionalitäten. Damit ist **KoliBri** für die Realisierung statischer Webseiten als auch dynamischer Webanwendungen unterschiedlicher Corporate Designs und Styleguides gleichermaßen wiederverwendbar und somit für Open Source sehr interessant.
 
 ## Lizenz
 
@@ -20,7 +20,7 @@ KoliBri baut direkt auf den [Webstandards](https://www.w3.org/standards/webdesig
 
 ## Anwendung erstellen
 
-Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf KoliBri-Basis erstellen können.
+Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf **KoliBri**-Basis erstellen können.
 
 ![Zeigt wie man mit create-kolibri eine neue App anlegen kann.](https://raw.githubusercontent.com/public-ui/.github/main/profile/create-kolibri.gif)
 
