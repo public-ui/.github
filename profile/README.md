@@ -24,7 +24,30 @@ Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf **KoliB
 
 ![Zeigt wie man mit create-kolibri eine neue App anlegen kann.](https://raw.githubusercontent.com/public-ui/.github/main/profile/create-kolibri.gif)
 
-Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frameworks `Angular`, `React`, `Solid` und `Next.js` generieren.
+<table bgcolor="#fff">
+  <tr>
+    <td>
+      <img alt="Logo vom React-Framework" height="100" src="https://raw.githubusercontent.com/public-ui/.github/main/profile/react.png" />
+    </td>
+    <td>
+      <img alt="Logo vom Preact-Framework" height="100" src="https://raw.githubusercontent.com/public-ui/.github/main/profile/preact.png" />
+    </td>
+    <td>
+      <img alt="Logo vom Solid-Framework" height="100" src="https://raw.githubusercontent.com/public-ui/.github/main/profile/solid.png" />
+    </td>
+    <td>
+      <img alt="Logo vom Next.js-Framework" height="100" src="https://raw.githubusercontent.com/public-ui/.github/main/profile/nextjs.png" />
+    </td>
+    <td>
+      <img alt="Logo vom Astro-Framework" height="100" src="https://raw.githubusercontent.com/public-ui/.github/main/profile/astro.png" />
+    </td>
+    <td>
+      <img alt="Logo vom Angular-Framework" height="100" src="https://raw.githubusercontent.com/public-ui/.github/main/profile/angular.png" />
+    </td>
+  </tr>
+</table>
+
+Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frameworks `React`, `Preact`, `Solid`, `Next.js`, `Astro` und `Angular` generieren.
 
 ## Kollaboration
 
