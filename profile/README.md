@@ -30,9 +30,14 @@ Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frame
 
 Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung dar und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
 
-**Was können Sie tun?**
+### Erste Schritte
+
+Sie können folgendes tun, um **KoliBri** kennenzulernen …
+
+- [Lesen Sie mehr über KoliBri](https://public-ui.github.io) (Dokumenation)
+- [Probieren Sie KoliBri aus](https://public-ui.github.io/?path=3D/docs/erste-schritte--page) (Create-App)
+- [Gestalten Sie Ihren eigenen KoliBri](https://public-ui.github.io/?path=3D/docs/designer--page) (Designer)
+- [Giben Sie uns Feedback](https://github.com/public-ui/kolibri/issues) (Feature, Issue)
 - [Folgen Sie uns auf GitHub](https://github.com/orgs/public-ui/followers) (Follow-Button)
-- [Lesen Sie unsere Dokumentation](https://public-ui.github.io)
-- Nutzen Sie unsere Bibliothek
-- Geben Sie uns Feedback
-- Machen Sie einen Beitrag (Pull-Request)
+
+**Lassen Sie uns KoliBri bunter und besser machen!**
