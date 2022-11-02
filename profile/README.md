@@ -28,6 +28,8 @@ Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf **KoliB
 
 Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frameworks `React`, `Preact`, `Solid`, `Next.js`, `Astro` und `Angular` generieren.
 
+> 👨‍💻 Kleines schnelles Code-Beispiel auf [CodeSandbox](https://codesandbox.io/s/small-glitter-clj62n?file=/src/App.tsx).
+
 ## Kollaboration
 
 Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung dar und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
