@@ -8,8 +8,7 @@ assignees: 'cbraehmig,deleonio,laske185'
 ---
 
 > **Note**
->  
-> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben. Legen Sie den Fokus auf die technische Aspekte der Fragestellung.
+> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgegebe.
 
 ---
 

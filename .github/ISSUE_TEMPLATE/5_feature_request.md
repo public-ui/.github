@@ -8,8 +8,7 @@ assignees: 'cbraehmig,deleonio'
 ---
 
 > **Note**
->  
-> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben.
+> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgegebe.
 
 ---
 
