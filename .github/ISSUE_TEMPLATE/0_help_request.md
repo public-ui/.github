@@ -1,7 +1,7 @@
 ---
 name: Hilfe anfragen
 about: Stellen Sie Ihre Fragen zur Verwendung unserer Komponenten-Bibliothek.
-title: '🤷 '
+title: '📖 '
 labels: 'help'
 assignees: 'cbraehmig,deleonio,laske185'
 
