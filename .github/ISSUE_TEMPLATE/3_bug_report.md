@@ -7,7 +7,9 @@ assignees: 'deleonio,laske185'
 
 ---
 
-> ⚠️ **Achten Sie beim Erstellen von Tickets stets darauf**, dass die **technischen Fokus** adressiert werden und **keine fachlichen und unternehmensinternen Details** preisgegeben werden.
+> **Note**
+> 
+> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben. Legen Sie den Fokus auf die technische Aspekte der Fehlersituation.
 
 # Fehlermeldung
 
@@ -15,6 +17,11 @@ assignees: 'deleonio,laske185'
 Eine klare und prägnante Beschreibung des Fehlers.
 
 ## Reproduktion
+
+Nutzen Sie die [CodeSandbox](https://codesandbox.io/s/small-glitter-clj62n?file=/src/App.tsx), um ein reproduzierbares Beispiel zu erstellen.
+
+- Link zu CodeSandbox: '...'
+
 Schritte zum Reproduzieren des Verhaltens:
 - Gehe zu '...'
 - Klicke auf '....'
