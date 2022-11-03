@@ -1,7 +1,7 @@
 ---
 name: Fehler melden
 about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
-title: '[BUG] '
+title: '[Bug] '
 labels: 'bug'
 assignees: 'deleonio,laske185'
 
