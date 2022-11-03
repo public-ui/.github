@@ -7,6 +7,10 @@ assignees: 'cbraehmig,deleonio'
 
 ---
 
+> **Note**
+> 
+> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben. Legen Sie den Fokus auf die technische Aspekte der Featureanfrage.
+
 # Featureanfrage
 
 ## Bezieht sich Ihre Feature-Anfrage auf ein Problem? Bitte beschreiben.
