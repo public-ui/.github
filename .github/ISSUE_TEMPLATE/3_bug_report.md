@@ -1,15 +1,17 @@
 ---
 name: Fehler melden
 about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
-title: '🪲 '
+title: '[🪲 Bug]'
 labels: 'bug'
 assignees: 'deleonio,laske185'
 
 ---
 
 > **Note**
-> 
-> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben. Legen Sie den Fokus auf die technische Aspekte der Fehlersituation.
+>  
+> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben.
+
+---
 
 # Fehlermeldung
 

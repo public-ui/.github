@@ -1,15 +1,17 @@
 ---
 name: Feature anfragen
 about: Schlagen Sie eine Idee für dieses Projekt vor.
-title: '🛹 '
-labels: 'feature'
+title: '[🛹 Feature]'
+labels: 'enhancement'
 assignees: 'cbraehmig,deleonio'
 
 ---
 
 > **Note**
-> 
-> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben. Legen Sie den Fokus auf die technische Aspekte der Featureanfrage.
+>  
+> - [ ] Achten Sie beim Erstellen von Tickets darauf, dass Sie **keine** fachlichen und unternehmensinternen Details preisgegeben.
+
+---
 
 # Featureanfrage
 
