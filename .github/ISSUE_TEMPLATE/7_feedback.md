@@ -1,7 +1,7 @@
 ---
 name: Hilfreicher Hinweis
 about: Schreiben Sie uns, wenn Sie einen hilfreichen Hinweis für uns haben, was wir besser machen können.
-title: '[💡 Hinweis]'
+title: '💡 Hinweis: '
 labels: 'useful hint'
 assignees: 'cbraehmig,deleonio'
 

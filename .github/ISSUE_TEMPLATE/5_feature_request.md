@@ -1,7 +1,7 @@
 ---
 name: Feature anfragen
 about: Schlagen Sie eine Idee für dieses Projekt vor.
-title: '[🛹 Feature]'
+title: '🛹 Feature: '
 labels: 'enhancement'
 assignees: 'cbraehmig,deleonio'
 
