@@ -38,7 +38,7 @@ Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberfl�
 
 Sie können folgendes tun, um **KoliBri** kennenzulernen …
 
-- [Lesen Sie mehr über KoliBri](https://public-ui.github.io) (Dokumenation)
+- [Lesen Sie mehr über KoliBri](https://public-ui.github.io) (Dokumentation)
 - [Probieren Sie KoliBri aus](https://public-ui.github.io/?path=3D/docs/erste-schritte--page) (Create-App)
 - [Gestalten Sie Ihren eigenen KoliBri](https://public-ui.github.io/?path=3D/docs/designer--page) (Designer)
 - [Geben Sie uns Feedback](https://github.com/public-ui/kolibri/issues) (Feature, Issue)
