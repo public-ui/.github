@@ -1,8 +1,9 @@
 ---
 name: Fehler melden
 about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
-title: '🪲 Bug: '
+title: '🐞 Bug: '
 labels: 'bug'
+project: "KoliBri-Backlog"
 assignees: 'deleonio,laske185'
 
 ---
