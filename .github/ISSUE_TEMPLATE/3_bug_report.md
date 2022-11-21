@@ -4,7 +4,7 @@ about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
 title: '🐞 Bug: '
 labels: 'bug'
 project: "KoliBri-Backlog"
-assignees: 'deleonio,laske185'
+# assignees: ''
 
 ---
 

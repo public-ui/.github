@@ -3,7 +3,7 @@ name: Hilfe gesucht
 about: Stellen Sie Ihre Frage zur Verwendung oder Spezifikation.
 title: '📖 Help: '
 labels: 'help wanted'
-assignees: 'cbraehmig,deleonio,laske185'
+# assignees: ''
 
 ---
 
