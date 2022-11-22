@@ -28,7 +28,7 @@ Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf **KoliB
 
 Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frameworks `React`, `Preact`, `Solid`, `Next.js`, `Astro` und `Angular` generieren.
 
-> 👨‍💻 Kleines schnelles Code-Beispiel auf [CodeSandbox](https://codesandbox.io/s/small-glitter-clj62n?file=/src/App.tsx).
+> 👨‍💻 Kleines schnelles Code-Beispiel auf [CodeSandbox](https://codesandbox.io/s/inspiring-firefly-teqjmn).
 
 ## Kollaboration
 
