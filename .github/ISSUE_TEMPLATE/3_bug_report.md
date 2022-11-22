@@ -20,7 +20,7 @@ Eine klare und prägnante Beschreibung des Fehlers.
 
 ## Reproduktion
 
-Nutzen Sie die [CodeSandbox](https://codesandbox.io/s/small-glitter-clj62n?file=/src/App.tsx), um ein reproduzierbares Beispiel zu erstellen.
+Nutzen Sie die [CodeSandbox](https://codesandbox.io/s/inspiring-firefly-teqjmn), um ein reproduzierbares Beispiel zu erstellen.
 
 - Link zu CodeSandbox: '...'
 
