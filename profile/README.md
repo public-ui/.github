@@ -39,11 +39,7 @@ Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frame
 
 > 👨‍💻 Kleines schnelles Code-Beispiel auf [CodeSandbox](https://codesandbox.io/s/inspiring-firefly-teqjmn).
 
-## Kollaboration
-
-Das Projekt "KoliBri" stellt den Standard für barrierefreie webbasierte Oberflächenkomponenten für die Bundesverwaltung dar und wir wollen in Kollaboration mit allen Interessierten diesen Standard weiter verbessern und erweitern.
-
-### Erste Schritte
+## Erste Schritte
 
 Sie können folgendes tun, um **KoliBri** kennenzulernen …
 
