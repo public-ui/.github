@@ -8,7 +8,7 @@ labels: 'useful hint'
 ---
 
 > **Note**
-> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgegebe.
+> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe.
 
 ---
 
