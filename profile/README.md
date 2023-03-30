@@ -4,7 +4,7 @@
 
 ## Vision
 
-We make **HTML** accessible** using **reusable web components to ensure **usability** and **accessibility**.
+We make **HTML** accessible using **reusable web components** to ensure **usability** and **accessibility**.
 
 ## Mission
 
@@ -44,8 +44,8 @@ Currently you can generate a `static webpage` or webapps for the frameworks `Rea
 You can do the following to get to know **KoliBri** ...
 
 - [Read more about KoliBri](https://public-ui.github.io) (Documentation)
-- [Try KoliBri](https://public-ui.github.io/?path=3D/docs/erste-schritte--page) (Create-App)
-- [Design your own KoliBri](https://public-ui.github.io/?path=3D/docs/designer--page) (Designer)
+- [Try KoliBri](https://public-ui.github.io/docs/get-started/erste-schritte) (Create-App)
+- [Design your own KoliBri](https://public-ui.github.io/designer/) (Designer)
 - [Give us feedback](https://github.com/public-ui/kolibri/issues) (Feature, Issue)
 - [Follow us on GitHub](https://github.com/orgs/public-ui/followers) (Follow button)
 
