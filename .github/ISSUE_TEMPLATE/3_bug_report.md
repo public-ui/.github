@@ -20,9 +20,9 @@ Eine klare und prägnante Beschreibung des Fehlers.
 
 ## Reproduktion
 
-Nutzen Sie die [CodeSandbox](https://codesandbox.io/s/inspiring-firefly-teqjmn), um ein reproduzierbares Beispiel zu erstellen.
+Nutzen Sie die [StackBlitz](https://stackblitz.com/edit/vitejs-vite-dcg6xo), um ein reproduzierbares Beispiel zu erstellen.
 
-- Link zu CodeSandbox: '...'
+- Link zu StackBlitz: '...'
 
 Schritte zum Reproduzieren des Verhaltens:
 - Gehe zu '...'
