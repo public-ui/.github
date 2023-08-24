@@ -37,7 +37,7 @@ In the following video you can see how to easily create a web application based 
 
 Currently you can generate a `static webpage` or webapps for the frameworks `React`, `Preact`, `Solid`, `Next.js`, `Astro` and `Angular`.
 
-> 👨‍💻 Small quick code example on [CodeSandbox](https://codesandbox.io/s/inspiring-firefly-teqjmn).
+> 👨‍💻 Small quick code example on [StackBlitz](https://stackblitz.com/edit/vitejs-vite-dcg6xo).
 
 ## First steps
 
