@@ -20,7 +20,7 @@ Eine klare und prägnante Beschreibung des Fehlers.
 
 ## Reproduktion
 
-Nutzen Sie die [StackBlitz](https://stackblitz.com/edit/vitejs-vite-dcg6xo), um ein reproduzierbares Beispiel zu erstellen.
+Nutzen Sie die [StackBlitz (v1)](https://stackblitz.com/edit/vitejs-vite-dcg6xo) oder [StackBlitz (v2)](https://stackblitz.com/edit/vitejs-vite-kkfhk5), um ein reproduzierbares Beispiel zu erstellen.
 
 - Link zu StackBlitz: '...'
 

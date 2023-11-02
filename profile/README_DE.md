@@ -37,7 +37,7 @@ Im folgenden Video sehen Sie, wie Sie ganz einfach eine Webanwendung auf **KoliB
 
 Aktuell können Sie eine `statische Webseite` oder Webanwendungen für die Frameworks `React`, `Preact`, `Solid`, `Next.js`, `Astro` und `Angular` generieren.
 
-> 👨‍💻 Kleines schnelles Code-Beispiel auf [StackBlitz](https://stackblitz.com/edit/vitejs-vite-dcg6xo).
+> 👨‍💻 Kleines schnelles Code-Beispiel auf [StackBlitz (v1)](https://stackblitz.com/edit/vitejs-vite-dcg6xo) | [StackBlitz (v2)](https://stackblitz.com/edit/vitejs-vite-kkfhk5).
 
 ## Erste Schritte
 
