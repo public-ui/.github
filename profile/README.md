@@ -31,8 +31,6 @@ To this end, let **us** **together** make KoliBri **better** and **more** colorf
 
 In the following video you can see how to easily create a web application based on **KoliBri**.
 
-**Command:** `npm init kolibri@latest my-app`
-
 ![Shows how to create a new app with create-kolibri.](https://raw.githubusercontent.com/public-ui/.github/main/profile/create-kolibri.gif)
 
 Currently you can generate a `static webpage` or webapps for the frameworks `React`, `Preact`, `Solid`, `Next.js`, `Astro` and `Angular`.
@@ -44,7 +42,7 @@ Currently you can generate a `static webpage` or webapps for the frameworks `Rea
 You can do the following to get to know **KoliBri** ...
 
 - [Read more about KoliBri](https://public-ui.github.io) (Documentation)
-- [Try KoliBri](https://public-ui.github.io/docs/get-started/first-steps) (Create-App)
+- [Try KoliBri](https://github.com/public-ui/templates#kolibri-templates) (Get Started)
 - [Design your own KoliBri](https://public-ui.github.io/designer/) (Designer)
 - [Give us feedback](https://github.com/public-ui/kolibri/issues) (Feature, Issue)
 - [Follow us on GitHub](https://github.com/orgs/public-ui/followers) (Follow button)
