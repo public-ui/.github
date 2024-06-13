@@ -37,6 +37,11 @@ Currently you can generate a `static webpage` or webapps for the frameworks `Rea
 
 > 👨‍💻 Small quick code example on [StackBlitz (v1)](https://stackblitz.com/edit/vitejs-vite-dcg6xo) | [StackBlitz (v2)](https://stackblitz.com/edit/vitejs-vite-kkfhk5).
 
+## Development-Deployments
+
+* `develop`: https://develop--kolibri-public-ui.netlify.app/
+* `release/1.7`: https://release-1-7--kolibri-public-ui.netlify.app/
+
 ## First steps
 
 You can do the following to get to know **KoliBri** ...
