@@ -58,6 +58,7 @@ You can do the following to get to know **KoliBri** ...
 - [Was kann ich im Sprint tun, wenn ich nichts mehr zu tun habe?](https://github.com/orgs/public-ui/projects/2/views/69)
 - [Was kann ich sonst tun, wenn ich nichts mehr zu tun habe?](https://github.com/orgs/public-ui/projects/2/views/60)
 - Schnelle Code-Beispiel erstellen mit:
+  - [StackBlitz (v4)](https://stackblitz.com/edit/vitejs-vite-zmnbtsbi)
   - [StackBlitz (v3)](https://stackblitz.com/edit/vitejs-vite-ihadrw)
   - [StackBlitz (v2)](https://stackblitz.com/edit/vitejs-vite-kkfhk5)
   - [StackBlitz (v1)](https://stackblitz.com/edit/vitejs-vite-dcg6xo)
@@ -65,6 +66,7 @@ You can do the following to get to know **KoliBri** ...
 ## Test-Deployments
 
 * `develop`: https://develop--kolibri-public-ui.netlify.app/
+* `release/3`: https://release-3--kolibri-public-ui.netlify.app/
 * `release/2`: https://release-2--kolibri-public-ui.netlify.app/
 * `release/1`: https://release-1--kolibri-public-ui.netlify.app/
 
