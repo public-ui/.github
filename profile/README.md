@@ -45,10 +45,10 @@ You can currently generate a `static webpage` or apps for `React`, `Preact`, `So
 
 ## Development Deployments
 
-* `develop`: [https://develop--kolibri-public-ui.netlify.app/](https://develop--kolibri-public-ui.netlify.app/)
-* `release/3`: [https://release-3--kolibri-public-ui.netlify.app/](https://release-3--kolibri-public-ui.netlify.app/)
-* `release/2`: [https://release-2--kolibri-public-ui.netlify.app/](https://release-2--kolibri-public-ui.netlify.app/)
-* `release/1`: [https://release-1--kolibri-public-ui.netlify.app/](https://release-1--kolibri-public-ui.netlify.app/)
+* `develop`: https://develop--kolibri-public-ui.netlify.app/
+* `release/3`: https://release-3--kolibri-public-ui.netlify.app/
+* `release/2`: https://release-2--kolibri-public-ui.netlify.app/
+* ~~`release/1`: https://release-1--kolibri-public-ui.netlify.app~~
 
 ## First Steps
 
