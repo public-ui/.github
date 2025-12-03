@@ -1,14 +1,19 @@
 ---
 name: Feature anfragen
-about: Schlagen Sie eine Idee für dieses Projekt vor.
+about: Für neue Funktionen oder Erweiterungen bestehender Funktionen
 title: '🛹 Feature: '
 labels: 'enhancement'
 # assignees: ''
 
 ---
 
-> **Note**
-> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe.
+## Voraussetzungen
+
+Bitte bestätigen Sie, dass Sie folgende Schritte durchgeführt haben:
+
+- [ ] Ich habe die Dokumentation durchsucht
+- [ ] Ich habe nach ähnlichen Feature-Anfragen gesucht
+- [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe
 
 ---
 
