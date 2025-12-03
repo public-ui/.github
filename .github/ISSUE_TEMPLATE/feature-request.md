@@ -7,8 +7,13 @@ labels: 'enhancement'
 
 ---
 
-> **Note**
-> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe.
+## Voraussetzungen
+
+Bitte bestätigen Sie, dass Sie folgende Schritte durchgeführt haben:
+
+- [ ] Ich habe die Dokumentation durchsucht
+- [ ] Ich habe nach ähnlichen Feature-Anfragen gesucht
+- [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe
 
 ---
 

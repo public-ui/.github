@@ -3,13 +3,17 @@ name: Fehler melden
 about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
 title: '🐞 Bug: '
 labels: 'bug'
-project: "KoliBri-Backlog"
 # assignees: ''
 
 ---
 
-> **Note**
-> - [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe.
+## Voraussetzungen
+
+Bitte bestätigen Sie, dass Sie folgende Schritte durchgeführt haben:
+
+- [ ] Ich habe die Dokumentation durchsucht
+- [ ] Ich habe nach ähnlichen/duplizierten Issues gesucht
+- [ ] Ich achte beim Erstellen des Issues darauf, dass ich **keine** fachlichen und unternehmensinternen Details preisgebe
 
 ---
 
@@ -36,16 +40,26 @@ Eine klare und prägnante Beschreibung dessen, was Sie erwartet haben.
 ## Screenshots
 Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erläutern.
 
-## Desktop (bitte vervollständigen Sie die folgenden Informationen):
-- Betriebssystem: [z.B. iOS]
-- Browser [z.B. Chrom, Safari]
-- Version [z.B. 22]
+## Umgebung
 
-## Smartphone (bitte ergänzen Sie folgende Angaben):
-- Gerät: [z.B. iPhone 6]
-- Betriebssystem: [z.B. iOS8.1]
-- Browser [z.B. Aktienbrowser, Safari]
-- Version [z.B. 22]
+<details>
+<summary>Desktop (falls zutreffend)</summary>
+
+- Betriebssystem: [z.B. Windows 11, macOS 14]
+- Browser: [z.B. Chrome, Firefox, Safari]
+- Version: [z.B. 120]
+
+</details>
+
+<details>
+<summary>Smartphone/Tablet (falls zutreffend)</summary>
+
+- Gerät: [z.B. iPhone 14, Samsung Galaxy S23]
+- Betriebssystem: [z.B. iOS 17.2, Android 14]
+- Browser: [z.B. Safari, Chrome, Samsung Internet]
+- Version: [z.B. 17.2]
+
+</details>
 
 ## Zusätzlicher Kontext
 Fügen Sie hier einen beliebigen anderen Kontext zum Problem hinzu.
