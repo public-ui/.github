@@ -1,8 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: 📚 Dokumentation
     url: https://github.com/public-ui/.github
     about: Durchsuchen Sie die Dokumentation für Antworten auf häufige Fragen
   - name: 💬 Diskussionen
     url: https://github.com/public-ui/.github/discussions
-    about: Stellen Sie Fragen und diskutieren Sie mit der Community
+    about: Für allgemeine Fragen und Community-Diskussionen (nicht für Bugs oder Features)

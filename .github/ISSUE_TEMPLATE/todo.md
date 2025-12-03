@@ -1,6 +1,6 @@
 ---
 name: Todo erstellen
-about: Erstellen Sie ein Todo, was zu Verbesserungen unseres Projektes beitragen kann.
+about: Für interne Aufgaben und geplante Verbesserungen (primär für Maintainer)
 title: '🛠️ Todo: '
 labels: 'todo'
 # assignees: ''

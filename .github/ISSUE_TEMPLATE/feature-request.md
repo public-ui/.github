@@ -1,6 +1,6 @@
 ---
 name: Feature anfragen
-about: Schlagen Sie eine Idee für dieses Projekt vor.
+about: Für neue Funktionen oder Erweiterungen bestehender Funktionen
 title: '🛹 Feature: '
 labels: 'enhancement'
 # assignees: ''

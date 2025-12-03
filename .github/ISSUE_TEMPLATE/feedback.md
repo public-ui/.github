@@ -1,6 +1,6 @@
 ---
 name: Hilfreicher Hinweis
-about: Schreiben Sie uns, wenn Sie einen hilfreichen Hinweis für uns haben, was wir besser machen können.
+about: Für Verbesserungsvorschläge zu Dokumentation, UX, Performance (keine neuen Features)
 title: '💡 Hinweis: '
 labels: 'useful hint'
 # assignees: ''

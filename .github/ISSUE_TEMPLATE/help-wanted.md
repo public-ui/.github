@@ -1,6 +1,6 @@
 ---
 name: Hilfe gesucht
-about: Stellen Sie Ihre Frage zur Verwendung oder Spezifikation.
+about: Für Fragen zur Verwendung - Wenn Sie nicht wissen, wie etwas funktioniert
 title: '📖 Help: '
 labels: 'help wanted'
 # assignees: ''

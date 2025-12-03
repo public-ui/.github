@@ -1,9 +1,27 @@
 ---
 name: Fehler melden
-about: Erstellen Sie einen Bericht, um uns bei der Verbesserung zu helfen.
+about: Nur für technische Fehler - Etwas funktioniert nicht wie dokumentiert
 title: '🐞 Bug: '
 labels: 'bug'
 # assignees: ''
+
+---
+
+## ⚠️ Ist dies wirklich ein Bug?
+
+**Ein Bug ist:**
+- ✅ Etwas funktioniert nicht wie in der Dokumentation beschrieben
+- ✅ Eine Funktion wirft einen Fehler oder verhält sich fehlerhaft
+- ✅ Das Verhalten ist inkonsistent oder unerwartet
+
+**KEIN Bug ist:**
+- ❌ Eine fehlende Funktion (→ nutzen Sie stattdessen "Feature anfragen")
+- ❌ Eine Frage zur Verwendung (→ nutzen Sie stattdessen "Hilfe gesucht")
+- ❌ Ein Verbesserungsvorschlag (→ nutzen Sie stattdessen "Hilfreicher Hinweis")
+- ❌ Unverständliche Dokumentation (→ nutzen Sie stattdessen "Hilfreicher Hinweis")
+
+**Bitte bestätigen Sie:**
+- [ ] Ja, dies ist ein technischer Fehler und keine Feature-Anfrage oder Frage
 
 ---
 
