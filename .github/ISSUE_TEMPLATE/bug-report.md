@@ -17,8 +17,8 @@ labels: 'bug'
 **KEIN Bug ist:**
 - ❌ Eine fehlende Funktion (→ nutzen Sie stattdessen "Feature anfragen")
 - ❌ Eine Frage zur Verwendung (→ nutzen Sie stattdessen "Hilfe gesucht")
-- ❌ Ein Verbesserungsvorschlag (→ nutzen Sie stattdessen "Hilfreicher Hinweis")
-- ❌ Unverständliche Dokumentation (→ nutzen Sie stattdessen "Hilfreicher Hinweis")
+- ❌ Ein Verbesserungsvorschlag (→ nutzen Sie stattdessen ein Blank Issue)
+- ❌ Unverständliche Dokumentation (→ nutzen Sie stattdessen ein Blank Issue)
 
 **Bitte bestätigen Sie:**
 - [ ] Ja, dies ist ein technischer Fehler und keine Feature-Anfrage oder Frage
@@ -42,15 +42,20 @@ Eine klare und prägnante Beschreibung des Fehlers.
 
 ## Reproduktion
 
-Nutzen Sie die [StackBlitz (v1)](https://stackblitz.com/edit/vitejs-vite-dcg6xo) oder [StackBlitz (v2)](https://stackblitz.com/edit/vitejs-vite-kkfhk5), um ein reproduzierbares Beispiel zu erstellen.
+Nutzen Sie eine der folgenden StackBlitz-Vorlagen, um ein reproduzierbares Beispiel zu erstellen:
 
-- Link zu StackBlitz: '...'
+- [StackBlitz (v4)](https://stackblitz.com/edit/vitejs-vite-zmnbtsbi)
+- [StackBlitz (v3)](https://stackblitz.com/edit/vitejs-vite-ihadrw)
+- [StackBlitz (v2)](https://stackblitz.com/edit/vitejs-vite-kkfhk5)
+- [StackBlitz (v1)](https://stackblitz.com/edit/vitejs-vite-dcg6xo)
 
-Schritte zum Reproduzieren des Verhaltens:
-- Gehe zu '...'
-- Klicke auf '....'
-- Scrollen Sie nach unten zu '....'
-- Siehe Fehler
+**Link zu StackBlitz:** '...'
+
+**Schritte zum Reproduzieren des Verhaltens:**
+1. Gehe zu '...'
+2. Klicke auf '....'
+3. Scrollen Sie nach unten zu '....'
+4. Siehe Fehler
 
 ## Erwartetes Verhalten
 Eine klare und prägnante Beschreibung dessen, was Sie erwartet haben.
