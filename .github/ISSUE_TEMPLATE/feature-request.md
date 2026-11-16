@@ -2,8 +2,7 @@
 name: Feature anfragen
 about: Für neue Funktionen oder Erweiterungen bestehender Funktionen
 title: '🛹 Feature: '
-labels: 'enhancement'
-# assignees: ''
+type: feature
 
 ---
 
