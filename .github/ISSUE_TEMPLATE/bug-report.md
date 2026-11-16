@@ -2,9 +2,7 @@
 name: Fehler melden
 about: Nur für technische Fehler - Etwas funktioniert nicht wie dokumentiert
 title: '🐞 Bug: '
-labels: 'bug'
-# assignees: ''
-
+type: bug
 ---
 
 ## ⚠️ Ist dies wirklich ein Bug?
